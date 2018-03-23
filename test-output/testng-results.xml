@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="238" started-at="2017-08-01T01:52:26Z" finished-at="2017-08-01T01:52:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="238" started-at="2017-08-01T01:52:26Z" finished-at="2017-08-01T01:52:26Z">
+      <class name="testngpackage.FirstNgClass">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:testngpackage.FirstNgClass@2f8f11]" name="firstMethod" duration-ms="49" started-at="2017-08-01T07:22:26Z" finished-at="2017-08-01T07:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+      </class> <!-- testngpackage.FirstNgClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
